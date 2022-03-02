@@ -840,7 +840,7 @@ var app = (function () {
     };
 
     const trivia = {
-      title: "Magnum, P.I. Trivia",
+      title: "Tema 7: La distribución",
       questions:
       [
         {
@@ -1386,9 +1386,9 @@ var app = (function () {
     	const block = {
     		c: function create() {
     			button = element("button");
-    			button.textContent = "Submit Answers";
+    			button.textContent = "Ok";
     			attr_dev(button, "type", "submit");
-    			add_location(button, file, 167, 16, 4422);
+    			add_location(button, file, 167, 16, 4418);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, button, anchor);
@@ -1416,7 +1416,7 @@ var app = (function () {
     	const block = {
     		c: function create() {
     			button = element("button");
-    			button.textContent = "Next Question";
+    			button.textContent = "Siguiente";
     			attr_dev(button, "type", "submit");
     			add_location(button, file, 165, 16, 4339);
     		},
@@ -1749,11 +1749,11 @@ var app = (function () {
     			t2 = space();
     			form = element("form");
     			label = element("label");
-    			t3 = text("How many questions would you like?\r\n            ");
+    			t3 = text("Cuantas preguntas?\r\n            ");
     			input = element("input");
     			t4 = space();
     			button = element("button");
-    			button.textContent = "Start";
+    			button.textContent = "Empezar";
     			attr_dev(h1, "class", "svelte-u1obmh");
     			add_location(h1, file$1, 36, 4, 753);
     			attr_dev(input, "type", "number");
@@ -1761,11 +1761,11 @@ var app = (function () {
     			attr_dev(input, "min", "1");
     			input.required = true;
     			attr_dev(input, "class", "svelte-u1obmh");
-    			add_location(input, file$1, 40, 12, 902);
+    			add_location(input, file$1, 40, 12, 886);
     			attr_dev(label, "class", "svelte-u1obmh");
     			add_location(label, file$1, 38, 8, 833);
     			attr_dev(button, "type", "submit");
-    			add_location(button, file$1, 47, 8, 1115);
+    			add_location(button, file$1, 47, 8, 1099);
     			add_location(form, file$1, 37, 4, 781);
     			add_location(div, file$1, 33, 0, 648);
     		},

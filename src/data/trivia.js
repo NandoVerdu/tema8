@@ -1,5 +1,5 @@
 export const trivia = {
-  title: "Magnum, P.I. Trivia",
+  title: "Tema 7: La distribución",
   questions:
   [
     {
