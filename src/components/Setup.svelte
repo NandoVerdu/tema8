@@ -16,7 +16,7 @@
     h1 {
         font-size: 1.8em;
         margin-bottom: 1em 0 2em 0;
-    }
+        }
     label {
         margin: 2em 0;
     }

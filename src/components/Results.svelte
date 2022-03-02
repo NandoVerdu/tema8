@@ -59,7 +59,7 @@
     background: #008568;
   }
   .wrong {
-    background: #6E7783;
+    background: #ff5252;
   }
   ul {
     padding: 0;
