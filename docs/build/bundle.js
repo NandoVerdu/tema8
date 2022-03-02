@@ -1728,12 +1728,11 @@ var app = (function () {
     	let t0;
     	let t1;
     	let t2;
-    	let t3;
     	let form;
     	let label;
-    	let t4;
+    	let t3;
     	let input;
-    	let t5;
+    	let t4;
     	let button;
     	let div_intro;
     	let div_outro;
@@ -1745,15 +1744,14 @@ var app = (function () {
     		c: function create() {
     			div = element("div");
     			h1 = element("h1");
-    			t0 = text("Welcome to ");
-    			t1 = text(/*$quizTitle*/ ctx[0]);
-    			t2 = text("!");
-    			t3 = space();
+    			t0 = text(/*$quizTitle*/ ctx[0]);
+    			t1 = text("!");
+    			t2 = space();
     			form = element("form");
     			label = element("label");
-    			t4 = text("How many questions would you like?\r\n            ");
+    			t3 = text("How many questions would you like?\r\n            ");
     			input = element("input");
-    			t5 = space();
+    			t4 = space();
     			button = element("button");
     			button.textContent = "Start";
     			attr_dev(h1, "class", "svelte-u1obmh");
@@ -1763,12 +1761,12 @@ var app = (function () {
     			attr_dev(input, "min", "1");
     			input.required = true;
     			attr_dev(input, "class", "svelte-u1obmh");
-    			add_location(input, file$1, 40, 12, 913);
+    			add_location(input, file$1, 40, 12, 902);
     			attr_dev(label, "class", "svelte-u1obmh");
-    			add_location(label, file$1, 38, 8, 844);
+    			add_location(label, file$1, 38, 8, 833);
     			attr_dev(button, "type", "submit");
-    			add_location(button, file$1, 47, 8, 1126);
-    			add_location(form, file$1, 37, 4, 792);
+    			add_location(button, file$1, 47, 8, 1115);
+    			add_location(form, file$1, 37, 4, 781);
     			add_location(div, file$1, 33, 0, 648);
     		},
     		l: function claim(nodes) {
@@ -1779,14 +1777,13 @@ var app = (function () {
     			append_dev(div, h1);
     			append_dev(h1, t0);
     			append_dev(h1, t1);
-    			append_dev(h1, t2);
-    			append_dev(div, t3);
+    			append_dev(div, t2);
     			append_dev(div, form);
     			append_dev(form, label);
-    			append_dev(label, t4);
+    			append_dev(label, t3);
     			append_dev(label, input);
     			set_input_value(input, /*$numberOfQuestions*/ ctx[2]);
-    			append_dev(form, t5);
+    			append_dev(form, t4);
     			append_dev(form, button);
     			current = true;
 
@@ -1800,7 +1797,7 @@ var app = (function () {
     			}
     		},
     		p: function update(ctx, [dirty]) {
-    			if (!current || dirty & /*$quizTitle*/ 1) set_data_dev(t1, /*$quizTitle*/ ctx[0]);
+    			if (!current || dirty & /*$quizTitle*/ 1) set_data_dev(t0, /*$quizTitle*/ ctx[0]);
 
     			if (!current || dirty & /*$maxNumberOfQuestions*/ 2) {
     				attr_dev(input, "max", /*$maxNumberOfQuestions*/ ctx[1]);
