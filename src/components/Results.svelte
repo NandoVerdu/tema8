@@ -96,10 +96,10 @@
 <div
   in:fly={{ y: 200, duration: 500, delay: 500 }}
   out:fly={{ y: -200, duration: 500 }}>
-  <h1>Results</h1>
+  <h1>Resultados</h1>
 
   <div>
-    <p class="final-score">Final Score: {percentage}%</p>
+    <p class="final-score">Puntuación : {percentage}%</p>
     <div class="score-scale">
       <div
         class="score-bar"
@@ -121,7 +121,7 @@
             <p>{getDisplayValue(question.correctAnswer)}</p>
             {#if !$detailedScore[index].correct}
               <p>
-                Your Answer:
+                Tu respuesta:
                 {getDisplayValue($detailedScore[index].chosenAnswer)}
               </p>
             {/if}
@@ -134,5 +134,5 @@
     </ul>
   {/if}
 
-  <button type="button" on:click={reset}>Play Again</button>
+  <button type="button" on:click={reset}>Intenta de nuevo</button>
 </div>
