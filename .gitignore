@@ -104,7 +104,7 @@ dist
 .tern-port
 
 # Build Files
-/public/build/
+/docs/build/
 
 /.firebase
 .firebaserc

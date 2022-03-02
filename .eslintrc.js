@@ -17,7 +17,7 @@ module.exports = {
       'jest'
     ],
     ignorePatterns: [
-      'public/build/'
+      'docs/build/'
     ],
     overrides: [
       {
