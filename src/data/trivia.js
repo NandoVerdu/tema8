@@ -53,7 +53,8 @@ export const trivia = {
     },
     {q: "¿Qué no es el merchandising",
      a: ["Promociones y descuentos para los clientes fieles", "Es como un vendedor que trabajase las 24 horas del días todos los días del año haciendo una presentación activa de los productos",
-    "Un conjunto de métodos y técnicas cuyo objetivo consiste en obtener la mayor rentabilidad posible del punto de venta","Una de las principales funciones del merchandising consiste en encargarse de la disposición y presentación de los productos en la tienda"]
+    "Un conjunto de métodos y técnicas cuyo objetivo consiste en obtener la mayor rentabilidad posible del punto de venta","Una de las principales funciones del merchandising consiste en encargarse de la disposición y presentación de los productos en la tienda",
+  "Incluye actividades como el emplazamiento del punto de venta y elementos externos como la fachada, escaparates, carteles"]
   }
     ,
   ]
