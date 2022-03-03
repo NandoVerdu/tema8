@@ -54,8 +54,22 @@ export const trivia = {
     {q: "¿Qué no es el merchandising",
      a: ["Promociones y descuentos para los clientes fieles", "Es como un vendedor que trabajase las 24 horas del días todos los días del año haciendo una presentación activa de los productos",
     "Un conjunto de métodos y técnicas cuyo objetivo consiste en obtener la mayor rentabilidad posible del punto de venta","Una de las principales funciones del merchandising consiste en encargarse de la disposición y presentación de los productos en la tienda",
-  "Incluye actividades como el emplazamiento del punto de venta y elementos externos como la fachada, escaparates, carteles"]
+  "Incluye actividades como el emplazamiento del punto de venta y elementos externos como la fachada, escaparates, carteles"],
   }
     ,
+    {q: "Disposición en la que se ponen estanterías de distintos tipos, repartidas de forma irregular, para que parezca que se compone de varias tiendas distintas",
+     a: ["Disposición libre","Disposición en espiga","Disposición en parrilla","Disposición sesgada"],},
+
+     {q:"Disposición en la que las estanterías se disponen oblicuamente, obligando al público a hacer el recorrido que desea el comercio, lo que favorece la compra por impulso",
+     a:["Disposición libre","Disposición en espiga","Disposición en parrilla","Disposición sesgada"],},
+
+     {q: "Disposición en la que las estanterías se colocan en paralelo a la circulación de la clientela",
+      a: ["Disposición libre","Disposición en espiga","Disposición en parrilla","Disposición sesgada"],
+    followup: "Guía al cliente hacia puntos concretos y aprovecha el espacio del comercio"},
+
+      {q: "Disposición que combina la disposición de parrilla y la disposición en espiga",
+        a:["Disposición libre","Disposición en espiga","Disposición en parrilla","Disposición sesgada"],},
+
+  
   ]
 }
