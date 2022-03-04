@@ -111,7 +111,7 @@ a: ["Verdadero","Falso"],
 },
 
 {q:"La distribución indirecta incurre en unos costes fijos mayores que la distribución directa",
-a:["Falso","Falso"],},
+a:["Falso","Verdadero"],},
 
 {q:"La distribución indirecta incurre en unos costes variables mayores que la distribución directa",
 a:["Verdadero","Falso"],},
