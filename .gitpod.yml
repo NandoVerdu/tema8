@@ -3,7 +3,9 @@
 # and commit this file to your remote git repository to share the goodness with others.
 
 tasks:
-  - init: npm install && npm run build
-    command: npm run start
+  - init: npm install
+    command: |
+      export CLIENT_URL="$(gp url 5000)/livereload.js?snipver=1&port=443"
+      npm run dev
 
 

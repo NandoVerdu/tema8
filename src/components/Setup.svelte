@@ -34,10 +34,10 @@
 <div
     in:fly={{ x: 200, duration: 500, delay: 500 }}
     out:fly={{ x: -200, duration: 500 }}>
-    <h1>{$quizTitle}!</h1>
+    <h1>{$quizTitle}</h1>
     <form on:submit|preventDefault={onSubmit}>
         <label>
-            Cuántas preguntas?
+            Elige el número de preguntas
             <input
                 type="number"
                 bind:value={$numberOfQuestions}
@@ -45,6 +45,6 @@
                 min="1"
                 required />
         </label>
-        <button type="submit">Empezar</button>
+        <button type="submit">Listo!</button>
     </form>
 </div>

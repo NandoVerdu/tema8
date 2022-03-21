@@ -1,5 +1,5 @@
 export const trivia = {
-  title: "Tema 7: La distribución",
+  title: "Tema 8: La Política de Comunicación",
   questions:
   [ {
     q: "Cuando decimos que la distribución es una variable del marketing a largo plazo nos referimos a que",

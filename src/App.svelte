@@ -7,12 +7,13 @@
 
 <style>
 	:global(body) {
-		background: rgb(39,116,174);
-    background: linear-gradient(-35deg, rgba(39,116,174,1) 0%, rgba(1,66,106,1) 100%) no-repeat center center fixed;
+		background: rgb(255,215,181);
+    	background: linear-gradient(-35deg, rgba(255,215,181) 0%, rgba(255,103,0) 100%) no-repeat center center fixed;
 		background-size: cover;
 		color: #FFFFFF;
 		font-family: "Poppins", sans-serif;
 	}
+	
 	:global(button) {
 		box-sizing: border-box;
 		margin: 1em 0;
