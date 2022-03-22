@@ -129,7 +129,7 @@ a: [
  },
 
 {q: "La publicidad en vallas, mobiliario urbano, marquesinas de autobuses, transporte público y lonas publicitarias son",
-a: ["Publicidad exterior", "Publicidad en el lugar de venta, Prensa"],
+a: ["Publicidad exterior", "Publicidad en el lugar de venta","Prensa"],
 },
 
 {q: "Soportes como expositores, carteles, magafonía y proyecciones audiovisuales pertenecen a",
