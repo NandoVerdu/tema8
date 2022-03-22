@@ -174,7 +174,7 @@ a: ["las agencias de publicidad",
    
 
 { 
-  q: "En la fase de fijación del presupuesto, los recursos financieros que hay que invertir en publicidad se determinan mediante el método \"todo lo que se pueda\"",
+  q: "En la fase de fijación del presupuesto, los recursos financieros que hay que invertir en publicidad se determinan mediante el método -todo lo que se pueda-",
   a: [    "Falso. Existen otros métodos",
          "Verdadero. Es el único método que asegura el éxito de la campaña publicitaria"
            ],    
