@@ -178,8 +178,7 @@ a: ["las agencias de publicidad",
   a: [    "Falso. Existen otros métodos",
          "Verdadero. Es el único método que asegura el éxito de la campaña publicitaria"
            ],    
-}
-,
+},
 { 
   q: "En cuanto al control de la campaña publicitaria, el pretest",
   a: ["es un estudio de mercado, realizado antes de lanzar la campaña. Consiste en mostrar a un conjunto de individuos la campaña elaborada y comprobar que se entiende el mensaje y que no genera reacciones negativas",
