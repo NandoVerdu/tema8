@@ -91,90 +91,95 @@ a: [
      "El mensaje sale únicamente del anunciante sin permitir la respuesta del público",    
 ],  
 }
-/*,
+,
 
-{   q: "",
-    a: ["",
-       "",
-      ""
+{   q: "Una publicidad blanda",
+    a: ["Se centra más en generar el recuerdo de la marca. Dedica poco tiempo a destacar las bondades del producto o la propuesta de venta",
+       "El mensaje dominante se centra en fomentar la compra del producto, destacando sus características y sus beneficios. Se usa un imperativo de compra (Compre ahora)"
     ],      
 },
-{    q: "",
+{    q: "Una publicidad dura",
     a: [
-        "",
-       "",
-        ""  ],
+        "El mensaje dominante se centra en fomentar la compra del producto, destacando sus características y sus beneficios. Se usa un imperativo de compra (Compre ahora)",
+       "Se centra más en generar el recuerdo de la marca. Dedica poco tiempo a destacar las bondades del producto o la propuesta de venta" ],
 },
 
 { 
-    q: "",
+    q: "En un mensaje publicitario se destaca el eslogan, que es",
     a: [
-        "",
-       "",
-          ""
+        "una frase corta que resume la intención del anuncio y que busca captar la atención y generar recuerdo",
+       "el instrumento físico a través del cual fluye el mensaje",
+          "la interpretación que hace el receptor de los símbolos que usa el emisor en la codificación"
     ],      
 },
 
 { 
-  q: "",
-  a: ["",
-      "",
-      ""
+  q: "Un mensaje publicitario, para que sea efectivo",
+  a: ["debe convencer al público objetivo",
+      "debe ser igual que el de la competencia",
+      "debe ser farragoso y difícil de entender "
   ],   
 },
-{   q: "",
-  a: [  "",
-    "",
-         "",
-         ""
+{   q: "Marca la afirmación incorrecta",
+  a: [  "La publicidad en televisión y la publicidad en una página de internet son soportes de alcance masivo",
+    "La publicidad en televisión tiene un elevado coste",
+         "La publicidad en internet es de bajo coste",
+         "La publicidad en televisión e internet combinan imagen, sonido y movimiento"
   ],
  },
 
-{q: "",
-a: ["", ""],
+{q: "La publicidad en vallas, mobiliario urbano, marquesinas de autobuses, transporte público y lonas publicitarias son",
+a: ["Publicidad exterior", "Publicidad en el lugar de venta, Prensa"],
 },
 
-{q: "",
-a: ["", ""],
+{q: "Soportes como expositores, carteles, magafonía y proyecciones audiovisuales pertenecen a",
+a: ["Publicidad en el lugar de venta", "Prensa","Publicidad exterior"],
 },
 
-{q:"", 
-a: ["",""],  
+{q:"El único formato de publicidad en televisión es el anuncio televisivo", 
+a: ["Falso. También existe la telepromoción o el publirreportaje","Verdadero. La telepromoción y el publirreportaje no se considera anuncio televisivo"],  
 },
 
-{q: "",
-a: ["",""],
+{q: "Una campaña publicitaria es",
+a: ["el conjunto de acciones que lleva a cabo una empresa para alcanzar los objetivos publicitarios establecidos","el anuncio publicitario, es decir, el mensaje","un anuncio televisivo"],
 },
 
-{q:"",
-a:["",""],},
+{q:"En una campaña publicitaria, la determinación de los objetivos",
+a:["establece qué se pretende conseguir","trata de elegir el público objetivo","establece la idea básica que va a guiar la campaña"],},
 
-{q:"",
-a:["",""],},
+{q:"La estrategia creativa es ",
+a:["la fase de la campaña publicitaria que esboza la idea básica del mensaje publicitario. Su finalidad es captar la atención del público objetivo y transmitir una imagen positiva",
+"la selección de medios, los soportes y los formatos más adecuados para alcanzar los objetivos de la campaña. Se concreta en un documento llamado plan de medios."],},
 
-{q: "",
-a: ["",    
-  "",
-  ""],
+{q:"La estrategia de medios es ",
+a:[
+  "la selección de medios, los soportes y los formatos más adecuados para alcanzar los objetivos de la campaña. Se concreta en un documento llamado plan de medios.",
+  "la fase de la campaña publicitaria que esboza la idea básica del mensaje publicitario. Su finalidad es captar la atención del público objetivo y transmitir una imagen positiva",
+],},
+
+{q: "De la estrategia creativa se encarga",
+a: ["las agencias de publicidad",    
+  "las centrales de medios",
+  "las empresas anunciadoras"],
 },
 
 { 
-  q: "",
-  a: ["","" ],   
+  q: "Compran lotes de espacios publicitarios en los medios y los revenden a las agencias de publicidad o directamente a los anunciantes",
+  a: ["Centrales de medios","Empresas anunciadoras","Agencias de publicidad" ],   
 },
 {
-  q: "",
-  a:["","" ], 
+  q: "Orientan sobre la estrategia de medios (medios, soportes y formatos más adecuados)",
+  a:["Centrales de medios","Empresas anunciadoras", "Agencias de publicidad" ], 
 },
    
 
 { 
-  q: "",
-  a: [    "",
-         "",
-           ""],    
+  q: "En la fase de fijación del presupuesto, los recursos financieros que hay que invertir en publicidad se determinan mediante el método \"todo lo que se pueda\"",
+  a: [    "Falso. Existen otros métodos",
+         "Verdadero. Es el único método que asegura el éxito de la campaña publicitaria"
+           ],    
 }
-,
+,/*
 { 
   q: "",
   a: ["",
