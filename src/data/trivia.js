@@ -179,91 +179,104 @@ a: ["las agencias de publicidad",
          "Verdadero. Es el único método que asegura el éxito de la campaña publicitaria"
            ],    
 }
-,/*
+,
 { 
-  q: "",
-  a: ["",
-     "",
-      ""],  
+  q: "En cuanto al control de la campaña publicitaria, el pretest",
+  a: ["es un estudio de mercado, realizado antes de lanzar la campaña. Consiste en mostrar a un conjunto de individuos la campaña elaborada y comprobar que se entiende el mensaje y que no genera reacciones negativas",
+     "es un estudio de mercado, realizado durante o a la finalización de la campaña. Trata de averiguar cuántas personas han estado en contacto con la campaña y cómo ser ha interpretado el mensaje"
+    ],  
 },
 
 { 
-  q: "",
+  q: "En cuanto al control de la campaña publicitaria, el pretest",
   a: [
-      "",
-        "",
-         "",], 
+      "es un estudio de mercado, realizado durante o a la finalización de la campaña. Trata de averiguar cuántas personas han estado en contacto con la campaña y cómo ser ha interpretado el mensaje",
+        "es un estudio de mercado, realizado antes de lanzar la campaña. Consiste en mostrar a un conjunto de individuos la campaña elaborada y comprobar que se entiende el mensaje y que no genera reacciones negativas"
+      ], 
 },
 
     {
-      q: "",
-      a: ["", "", ""],
-      followup: ""
+      q: "El briefing es el documento que ",
+      a: ["la empresa anunciante facilita a la agencia de publicidad y que contiene los objetivos de la campaña publicitaria e información sobre la empresa, el producto y el público objetivo", 
+      "la agencia de publicidad facilita a la empresa anunciante y que contiene los objetivos de la campaña publicitaria e información sobre la empresa, el producto y el público objetivo", 
+      "la empresa anunciante facilita a la central de medios y que contiene los objetivos de la campaña publicitaria e información sobre la empresa, el producto y el público objetivo"
+    ],
+    },
+
+    {
+      q: "Publicidad que trata de actuar sobre el destinatario sin que este sea consciente, utilizando técnicas de estímulos que el público percibe sin darse cuenta",
+      a: [
+        "Publicidad subliminal",
+        "Publicidad engañosa",
+        "Publicidad desleal"],
     },
     {
-      q: "",
-      a: ["","",  ""],
-      followup: "",
+      q: "Publicidad que incluye información falsa o que puede conducir a error a sus destinatarios y ocasionarles un perjuicio económico",
+      a: ["Publicidad engañosa", 
+        "Publicidad subliminal",
+      "Publicidad desleal"],
+      
     },
     {
-      q: "",
-      a: [ "","", ""],
-      followup: ""
+      q: "Publicidad que perjudica a otras empresas, principalmemte competidoras",
+      a: ["Publicidad desleal",
+        "Publicidad subliminal",
+      "Publicidad engañosa",
+      ],
+      
     },
     {
-      q: "",
-      a: ["", "",""],
-      followup: "",
+      q: "Las herramientas de relaciones públicas no son",
+      a: ["Banners","Patrocinios y mecenazgos","Acontecimientos o eventos",  "Noticias", "Publicaciones"],
+     
+    },
+  
+    {
+      q: "Persiguen la credibilidad y la confianza del público objetivo y crear una actitud positiva hacia la empresa y sus productos",
+      a: [ "Relaciones Públicas",
+      "Promoción de ventas",
+      "Venta personal",
+        "Marketing directo"],
     },
     {
-      q: "",
-      a: ["","",  ""],
-      followup:
-        "",
+      q: "Contempla un conjunto de actividades de corta duración destinadas a estimular la compra de un producto mediante incentivos económicos o materiales",
+      a: [
+        "Promoción de ventas",
+        "Relaciones Públicas",
+      "Venta personal",
+        "Marketing directo"],
     },
     {
-      q: "",
-      a: ["","", ""],
-    },
-    {
-      q: "",
-      a: ["", ""],
-      followup: ""
-    },
-    {
-      q: "",
-      a: [ "",""],
-      followup: "",
-    },
-    {
-      q: "",
-      a: ["", ""],
-    },
-    {
-      q: "",
-      a: [ "",""],
+      q: "Es una forma de comunicación oral, cara a cara e interactiva que se basa en el desarrollo de relaciones con la clientela y permite recibir su respuesta inmediatamente",
+      a: ["Venta personal", 
+        "Relaciones Públicas",
+      "Promoción de ventas",
+        "Marketing directo"],
     
     },
-    {q: "",
-     a: ["", "",
-    "","",
-  ""],
+    {q: "Es un conjunto de técnicas que requiere información detallada de los clientes para ofrecer a cada cual aquello que le interesa ",
+     a: [
+      "Marketing directo", 
+      "Relaciones Públicas",
+     "Promoción de ventas",
+     "Venta personal",
+       ],
   }
     ,
-    {q: "",
-     a: ["","","",""],},
+    {q: "Los descuentos en el precio, el 2X1 y muestras gratuitas son herramientas propias de",
+     a: ["Promoción de ventas","Publicidad","Relaciones Públicas","Marketing directo"],},
 
-     {q:"",
-     a:["","","",""],},
+     {q:"El apoyo económico de marcas como Adidas o Nike a los equipos de futbol es",
+     a:["Patrocinio y publicidad","Patrocinio y promoción de ventas","Patrocinio y marketing directo"],},
 
-     {q: "",
-      a: ["","","",""],
-    followup: ""},
+     {q: "Regalar unos vales de 5 € para la próxima compra en Zalando es",
+      a: ["Promoción de ventas","Publicidad","Marketing directo"],
+    },
 
-      {q: "",
-        a:["","","",""],}, 
+      {q: "Las llamadas que recibimos de las compañías eléctricas para cambiar de comercializadora es",
+        a:["Marketing directo","Publicidad","Promoción de ventas"]}, 
 
   
-*/  ]
+ ]
 
 }
