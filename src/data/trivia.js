@@ -187,7 +187,7 @@ a: ["las agencias de publicidad",
 },
 
 { 
-  q: "En cuanto al control de la campaña publicitaria, el pretest",
+  q: "En cuanto al control de la campaña publicitaria, el postests",
   a: [
       "es un estudio de mercado, realizado durante o a la finalización de la campaña. Trata de averiguar cuántas personas han estado en contacto con la campaña y cómo ser ha interpretado el mensaje",
         "es un estudio de mercado, realizado antes de lanzar la campaña. Consiste en mostrar a un conjunto de individuos la campaña elaborada y comprobar que se entiende el mensaje y que no genera reacciones negativas"
