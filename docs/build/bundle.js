@@ -963,7 +963,7 @@ var app = (function () {
     },
     {   q: "Marca la afirmación incorrecta",
       a: [  "La publicidad en televisión y la publicidad en una página de internet son soportes de alcance masivo",
-        "La publicidad en televisión tiene un elevado coste",
+        "La publicidad en televisión es de coste bajo",
              "La publicidad en internet es de bajo coste",
              "La publicidad en televisión e internet combinan imagen, sonido y movimiento"
       ],
